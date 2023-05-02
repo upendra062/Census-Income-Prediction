@@ -1,0 +1,10 @@
+numpy
+pandas
+Flask
+scikit-learn
+seaborn
+ipykernel
+requests
+flask_cors
+bs4
+-e .
